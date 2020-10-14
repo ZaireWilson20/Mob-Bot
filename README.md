@@ -1,1 +1,1 @@
-Mob-Bot
+Duel-Bot
